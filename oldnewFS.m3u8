@@ -247,6 +247,129 @@ http://176.65.146.99:4003/play/a084
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",G! romance+1
+http://176.65.146.99:4004/play/a074/index.m3u8
+#EXTINF:-1 group-title="-",GREAT! action
+http://176.65.146.99:4004/play/a071/index.m3u8
+#EXTINF:-1 group-title="-",GREAT! movies
+http://176.65.146.99:4004/play/a072/index.m3u8
+#EXTINF:-1 group-title="-",GREAT! movies
+http://176.65.146.99:4004/play/a06z/index.m3u8
+#EXTINF:-1 group-title="-",GREAT! movies+1
+http://176.65.146.99:4004/play/a077/index.m3u8
+#EXTINF:-1 group-title="-",GREAT! romance
+http://176.65.146.99:4004/play/a073/index.m3u8
+#EXTINF:-1 group-title="-",GREAT! tv
+http://176.65.146.99:4004/play/a07a/index.m3u8
+#EXTINF:-1 group-title="-",GREAT! tv
+http://176.65.146.99:4004/play/a070/index.m3u8
+#EXTINF:-1 group-title="-",GREAT! tv+1
+http://176.65.146.99:4004/play/a07b/index.m3u8
+#EXTINF:-1 group-title="-",GREAT!action+1
+http://176.65.146.99:4004/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Anglia West HD
+http://176.65.146.99:4004/play/a07t/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Border Scotland HD
+http://176.65.146.99:4004/play/a07s/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Central East HD
+http://176.65.146.99:4004/play/a07u/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Central West HD
+http://176.65.146.99:4004/play/a07f/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Granada HD
+http://176.65.146.99:4004/play/a07j/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Meridian East HD
+http://176.65.146.99:4004/play/a07n/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Meridian South HD
+http://176.65.146.99:4004/play/a07p/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Meridian Thames Valley HD
+http://176.65.146.99:4004/play/a07o/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Tyne Tees HD
+http://176.65.146.99:4004/play/a07k/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 West Country East HD
+http://176.65.146.99:4004/play/a07m/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 West Country West HD
+http://176.65.146.99:4004/play/a07l/index.m3u8
+#EXTINF:-1 group-title="-",ITV 1 Yorkshire West HD
+http://176.65.146.99:4004/play/a07q/index.m3u8
+#EXTINF:-1 group-title="-",ITV Quiz HD
+http://176.65.146.99:4004/play/a081/index.m3u8
+#EXTINF:-1 group-title="-",ITV1 HD
+http://176.65.146.99:4004/play/a07y/index.m3u8
+#EXTINF:-1 group-title="-",ITV1 HD
+http://176.65.146.99:4004/play/a080/index.m3u8
+#EXTINF:-1 group-title="-",ITV1 HD
+http://176.65.146.99:4004/play/a082/index.m3u8
+#EXTINF:-1 group-title="-",ITV1 HD
+http://176.65.146.99:4004/play/a083/index.m3u8
+#EXTINF:-1 group-title="-",ITV1 HD
+http://176.65.146.99:4004/play/a07h/index.m3u8
+#EXTINF:-1 group-title="-",ITV1 Wales HD
+http://176.65.146.99:4004/play/a07i/index.m3u8
+#EXTINF:-1 group-title="-",ITV1+1
+http://176.65.146.99:4004/play/a06s/index.m3u8
+#EXTINF:-1 group-title="-",ITV1+1
+http://176.65.146.99:4004/play/a06u/index.m3u8
+#EXTINF:-1 group-title="-",ITV1+1
+http://176.65.146.99:4004/play/a06t/index.m3u8
+#EXTINF:-1 group-title="-",ITV1+1
+http://176.65.146.99:4004/play/a06r/index.m3u8
+#EXTINF:-1 group-title="-",ITV2 HD
+http://176.65.146.99:4004/play/a07g/index.m3u8
+#EXTINF:-1 group-title="-",ITV2+1
+http://176.65.146.99:4004/play/a06w/index.m3u8
+#EXTINF:-1 group-title="-",ITV3 HD
+http://176.65.146.99:4004/play/a07r/index.m3u8
+#EXTINF:-1 group-title="-",ITV3+1
+http://176.65.146.99:4004/play/a06x/index.m3u8
+#EXTINF:-1 group-title="-",ITV4 HD
+http://176.65.146.99:4004/play/a07z/index.m3u8
+#EXTINF:-1 group-title="-",ITV4+1
+http://176.65.146.99:4004/play/a06y/index.m3u8
+#EXTINF:-1 group-title="-",LEGEND
+http://176.65.146.99:4004/play/a06g/index.m3u8
+#EXTINF:-1 group-title="-",LEGEND XTRA
+http://176.65.146.99:4004/play/a06d/index.m3u8
+#EXTINF:-1 group-title="-",LEGEND XTRA+1
+http://176.65.146.99:4004/play/a06l/index.m3u8
+#EXTINF:-1 group-title="-",PBS America
+http://176.65.146.99:4004/play/a06h/index.m3u8
+#EXTINF:-1 group-title="-",STV
+http://176.65.146.99:4004/play/a06q/index.m3u8
+#EXTINF:-1 group-title="-",STV
+http://176.65.146.99:4004/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",STV HD
+http://176.65.146.99:4004/play/a07w/index.m3u8
+#EXTINF:-1 group-title="-",TRUE CRIME
+http://176.65.146.99:4004/play/a06j/index.m3u8
+#EXTINF:-1 group-title="-",TRUE CRIME
+http://176.65.146.99:4004/play/a06i/index.m3u8
+#EXTINF:-1 group-title="-",TRUE CRIME X
+http://176.65.146.99:4004/play/a06f/index.m3u8
+#EXTINF:-1 group-title="-",TRUE CRIME X
+http://176.65.146.99:4004/play/a06b/index.m3u8
+#EXTINF:-1 group-title="-",TRUE CRIME+1
+http://176.65.146.99:4004/play/a06k/index.m3u8
+#EXTINF:-1 group-title="-",TalkingPictures
+http://176.65.146.99:4004/play/a06m/index.m3u8
+#EXTINF:-1 group-title="-",That's Melody
+http://176.65.146.99:4004/play/a06v/index.m3u8
+#EXTINF:-1 group-title="-",That's Oldies
+http://176.65.146.99:4004/play/a07v/index.m3u8
+#EXTINF:-1 group-title="-",That's Summer
+http://176.65.146.99:4004/play/a06e/index.m3u8
+#EXTINF:-1 group-title="-",That's TV
+http://176.65.146.99:4004/play/a06n/index.m3u8
+#EXTINF:-1 group-title="-",That's TV 2
+http://176.65.146.99:4004/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",That's TV 3
+http://176.65.146.99:4004/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-",UTV HD
+http://176.65.146.99:4004/play/a07x/index.m3u8
+
+
+
+
 
 
 
