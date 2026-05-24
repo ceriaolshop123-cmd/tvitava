@@ -427,6 +427,51 @@ http://176.65.146.99:4005/play/a073
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",Bloomberg HD
+http://176.65.146.99:4006/play/a07a/index.m3u8
+#EXTINF:-1 group-title="-",Boomerang
+http://176.65.146.99:4006/play/a074/index.m3u8
+#EXTINF:-1 group-title="-",Boomerang+1
+http://176.65.146.99:4006/play/a075/index.m3u8
+#EXTINF:-1 group-title="-",CN+1
+http://176.65.146.99:4006/play/a073/index.m3u8
+#EXTINF:-1 group-title="-",Disc.History+1
+http://176.65.146.99:4006/play/a06q/index.m3u8
+#EXTINF:-1 group-title="-",Disc.Sci+1
+http://176.65.146.99:4006/play/a06m/index.m3u8
+#EXTINF:-1 group-title="-",Disc.Science
+http://176.65.146.99:4006/play/a070/index.m3u8
+#EXTINF:-1 group-title="-",Disc.Turbo+1
+http://176.65.146.99:4006/play/a06s/index.m3u8
+#EXTINF:-1 group-title="-",Discovery+1
+http://176.65.146.99:4006/play/a06n/index.m3u8
+#EXTINF:-1 group-title="-",Food Network
+http://176.65.146.99:4006/play/a06v/index.m3u8
+#EXTINF:-1 group-title="-",Food Netwrk+1
+http://176.65.146.99:4006/play/a06w/index.m3u8
+#EXTINF:-1 group-title="-",GB News HD
+http://176.65.146.99:4006/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",ID+1
+http://176.65.146.99:4006/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",MTV
+http://176.65.146.99:4006/play/a06h/index.m3u8
+#EXTINF:-1 group-title="-",MTV
+http://176.65.146.99:4006/play/a06b/index.m3u8
+#EXTINF:-1 group-title="-",MTV 80s
+http://176.65.146.99:4006/play/a06g/index.m3u8
+#EXTINF:-1 group-title="-",Nick Jr. HD
+http://176.65.146.99:4006/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",Nicktoons
+http://176.65.146.99:4006/play/a06j/index.m3u8
+#EXTINF:-1 group-title="-",Quest Red
+http://176.65.146.99:4006/play/a06x/index.m3u8
+#EXTINF:-1 group-title="-",Quest Red+1
+http://176.65.146.99:4006/play/a077/index.m3u8
+
+
+
+
 
 
 
