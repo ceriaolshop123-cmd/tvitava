@@ -546,6 +546,19 @@ http://176.65.146.99:4007/play/a06t
 
 
 
+#EXTM3U
+#EXTINF:-1 group-title="-",Al Jazeera HD
+http://176.65.146.99:4008/play/a06k
+#EXTINF:-1 group-title="-",PCNE Chinese HD
+http://176.65.146.99:4008/play/a06g
+#EXTINF:-1 group-title="-",TRT World HD
+http://176.65.146.99:4008/play/a06i
+#EXTINF:-1 group-title="-",WION HD
+http://176.65.146.99:4008/play/a06h
+
+
+
+
 
 
 
